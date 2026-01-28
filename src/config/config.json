@@ -3,7 +3,7 @@
     "password": "",
     "mongodbConnectionString": "",
     "jwtSecret": "",
-    "apiDomain": "api.tibiamarket.top",
+    "apiDomain": "",
     "apiPort": 8001,
     "useVirtualDisplay": false,
     "showVirtualDisplay": false
