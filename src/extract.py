@@ -18,7 +18,7 @@ from utils.client import Client
 from utils.extraction.network.proxy import stop_proxy
 
 dry_run: bool = False
-api_url: str = "https://api.tibiamarket.top"
+api_url: str = ""
 config: dict = None
 schedule: Schedule = None
 
